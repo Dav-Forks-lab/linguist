@@ -2056,6 +2056,7 @@ Gradle:
   type: data
   extensions:
   - ".gradle"
+  color: "#02303A"
   tm_scope: source.groovy.gradle
   ace_mode: text
   language_id: 136
